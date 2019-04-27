@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">smartball</string>
+    <string name="title_activity_stream">StreamActivity</string>
+</resources>
